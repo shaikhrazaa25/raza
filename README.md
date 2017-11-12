@@ -1,2 +1,4 @@
 # raza
 ash
+:pizza:
+:tea:
